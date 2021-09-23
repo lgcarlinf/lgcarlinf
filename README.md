@@ -1,7 +1,7 @@
 # Hi there! I'm Luiggy 👋
 
     
-   <img src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_960_720.jpg" alt="Luiggy Carlin LinkedIn Profile" width="440px" align="right">     
+   <img src="https://img.freepik.com/vector-gratis/concepto-programadores-diseno-plano_23-2147856686.jpg?size=338&ext=jpg" alt="Luiggy Carlin LinkedIn Profile" width="440px" align="right">     
  
 
 ## Full Stack Developer 
