@@ -11,11 +11,11 @@
    <a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap"             width="40" height="40"/> </a>    
  </p>
  <p width='40%' align="center">
-     <a href="#" target="_blank"> <img src=" https://cdn.iconscout.com/icon/free/png-256/less-18-1175145.png" alt="html5"             width="40" height="40"/> </a>   
+     
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javascript" width="40" height="40"/> </a>
    <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" alt="react"                 width="40" height="40"/> </a>
-  
+   <a href="https://www.mysql.com/" target="_blank"> <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=2ec539" alt="mysql"               width="40" height="40"/> </a>
  </p>
 
   
