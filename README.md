@@ -16,11 +16,7 @@
    <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" alt="react"                 width="40" height="40"/> </a>
   
  </p>
- <p align="center">
-    
-    <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="mocha" width="40" height="40"/> </a>
- </p>
+
   
   
   
@@ -34,7 +30,7 @@
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
       </a>  
    </p>
-   <p><label>contreras.cesar.al@gmail.com</label></p>
+   <p><label>luiggylml@gmail.com</label></p>
    
    
   ******
