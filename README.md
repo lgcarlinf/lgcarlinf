@@ -8,7 +8,7 @@
 <p width='40%' height="100%"align="center"> 
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="html5"             width="40" height="40"/> </a>   
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="css3"         width="40" height="40"/> </a>
-   <a href="https://getbootstrap.com" target="_blank"> <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=currentColor" alt="bootstrap"             width="40" height="40"/> </a>    
+   <a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap"             width="40" height="40"/> </a>    
  </p>
  <p width='40%' align="center">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
