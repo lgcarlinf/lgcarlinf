@@ -1,7 +1,7 @@
 # Hi there! I'm Luiggy 👋
 
     
-   <img src="https://user-images.githubusercontent.com/67916064/99156868-3bd0da80-26a3-11eb-8d30-a83f596c9c65.jpg" alt="Cesar Contreras LinkedIn Profile" width="440px" align="right">     
+   <img src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_960_720.jpg" alt="Luiggy Carlin LinkedIn Profile" width="440px" align="right">     
  
 
 ## Full Stack Developer 
