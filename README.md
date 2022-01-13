@@ -1,14 +1,20 @@
 
     
  <p align="center">
-
  <h3 align="center">Luiggy Dev</h3>
  <h4 align="center">Hi, I'm Luiggy Carlin - Fullstack Developer</h4>
 </p>
+<br>
     
-
+  <div align="center">
+  <p align="center">My streaks</p>
+  <a href="https://github.com/lgcarlinf">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lgcarlinf&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgcarlinf&layout=compact&langs_count=7&theme=radical" />
+  <br/>
  
-    
+</div>
+
     
  ## Streaks 💻
 <div align="center">
