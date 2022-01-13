@@ -1,7 +1,5 @@
 # Hi there! I'm Luiggy 👋
-
     
-   <img src="https://image.freepik.com/vector-gratis/ilustracion-concepto-codigo-binario_114360-6578.jpg" alt="Luiggy Carlin LinkedIn Profile" width="440px" align="right">     
  ## Streaks 💻
 <div align="center">
   <p align="center">My streaks</p>
