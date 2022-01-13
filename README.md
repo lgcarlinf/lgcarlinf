@@ -21,15 +21,6 @@
     </p>
 </div>
 
-    
- ## Streaks 💻
-<div align="center">
-  <p align="center">My streaks</p>
-  <img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=lgcarlinf&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
- 
-  <br/>
- 
-</div>
 
 ## Full Stack Developer 
 <div style="display: inline_block" align="center">
@@ -47,6 +38,18 @@
   <img align="center" alt="Github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
 </div>
+
+
+ ## Streaks 💻
+<div align="center">
+  <p align="center">My streaks</p>
+  <img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=lgcarlinf&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+ 
+  <br/>
+ 
+</div>
+
+
   
   
   
