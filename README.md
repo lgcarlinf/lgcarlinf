@@ -17,7 +17,7 @@
 ## About 👨
    
 <div align="center">
-  <p align="center">Soy estudiante de Ingenieria de Sistemas a la mitad de la carrera descubri este mundo de la programacion y desde ese momento no deje de aprender muchisimas cosas interesantes de este mundillo . Me caracterizo por ser una persona autodidacta, atenta y con capacidad de adaptación a las nuevas tecnologías.</p>
+  <p align="center">Soy estudiante de Ingenieria de Sistemas a la mitad de la carrera descubri este mundo de la programacion y ahora le dedico el 100% de mi tiempo a seguir aprendiendo. Me caracterizo por ser una persona autodidacta, atenta y con capacidad de adaptación a las nuevas tecnologías.</p>
     </p>
 </div>
 
