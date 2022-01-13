@@ -14,7 +14,8 @@
     </a>
 </div>
 
-    ## About 👨
+##About 👨
+   
 <div align="center">
   <p align="center">Soy estudiante de Ingenieria de Sistemas a la mitad de la carrera descubri este mundo de la programacion y desde ese momento no deje de aprender muchisimas cosas interesantes de este mundillo . Me caracterizo por ser una persona autodidacta, atenta y con capacidad de adaptación a las nuevas tecnologías.</p>
     </p>
@@ -52,7 +53,7 @@
 ******
 ### - 📫 How to reach me: ...
    <p>
-      <a href="https://www.linkedin.com/in/carlin-felix-luiggy-giovanny-515410212/">
+      <a href="https://www.linkedin.com/in/luiggycf/">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30">
       </a>   
       <a align='right' href="mailto:luiggylml@gmail.com">
