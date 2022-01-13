@@ -3,7 +3,7 @@
  <p align="center">
 
  <h3 align="center">Luiggy Dev</h3>
- # Hi there! I'm Luiggy 👋 Fullstack Developer
+ <h4 align="center">Hi, I'm Luiggy Carlin - Fullstack Developer</h4>
 </p>
     
  ## Streaks 💻
