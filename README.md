@@ -10,21 +10,18 @@
 </div>
 
 ## Full Stack Developer 
-<p width='40%' height="100%"align="center"> 
-   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="html5"             width="40" height="40"/> </a>   
-   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="css3"         width="40" height="40"/> </a>
-   <a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap"             width="40" height="40"/> </a>    
- </p>
- <p width='40%' align="center">
-     
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javascript" width="40" height="40"/> </a>
-   <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" alt="react"                 width="40" height="40"/> </a>
-    <a href="https://es.redux.js.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="40" height="40"/> 
-    </a>
-   <a href="https://www.mysql.com/" target="_blank"> <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=2ec539" alt="mysql"               width="40" height="40"/> </a>
- </p>
+<div style="display: inline_block" align="center">
+  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Redux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 
+  <img align="center" alt="Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="Github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+
+</div>
   
   
   
