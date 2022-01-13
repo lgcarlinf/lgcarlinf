@@ -7,12 +7,17 @@
 <br>
     
   <div align="center">
-  <p align="center">My streaks</p>
   <a href="https://github.com/lgcarlinf">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lgcarlinf&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgcarlinf&layout=compact&langs_count=7&theme=radical" />
   <br/>
  
+</div>
+
+    ## About 👨
+<div align="center">
+  <p align="center">Soy estudiante de Ingenieria de Sistemas a la mitad de la carrera descubri este mundo de la programacion y desde ese momento no deje de aprender muchisimas cosas interesantes de este mundillo . Me caracterizo por ser una persona autodidacta, atenta y con capacidad de adaptación a las nuevas tecnologías.</p>
+    </p>
 </div>
 
     
