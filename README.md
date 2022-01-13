@@ -2,7 +2,14 @@
 
     
    <img src="https://image.freepik.com/vector-gratis/ilustracion-concepto-codigo-binario_114360-6578.jpg" alt="Luiggy Carlin LinkedIn Profile" width="440px" align="right">     
+ ## Streaks 💻
+<div align="center">
+  <p align="center">My streaks</p>
+  <img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=lgcarlinf&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
  
+  <br/>
+ 
+</div>
 
 ## Full Stack Developer 
 <p width='40%' height="100%"align="center"> 
