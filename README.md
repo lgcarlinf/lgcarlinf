@@ -2,7 +2,7 @@
     
  <p align="center">
  <h3 align="center">Luiggy Dev</h3>
- <h4 align="center">Hi, I'm Luiggy Carlin - Fullstack Developer</h4>
+ <h4 align="center">Hi, I'm Luiggy Carlin - Frontend Developer</h4>
 </p>
 <br>
     
