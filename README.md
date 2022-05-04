@@ -1,8 +1,8 @@
 
     
  <p align="center">
- <h3 align="center">Luiggy Dev</h3>
- <h4 align="center"> <a  align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi%2C+I'm+Luiggy+;I'm+Frontend+Web+Developer+%E2%9C%A8"/></h4>
+ <h1 align="center">Luiggy Carlin</h1>
+ <h4 align="center"> <a  href="https://readme-typing-svg.herokuapp.com?duration=3000&lines=I'm+Frontend+Web+Developer%E2%9C%A8%E2%9C%A8"/></h4>
 </p>
 <br>
     
