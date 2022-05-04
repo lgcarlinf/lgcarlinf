@@ -2,7 +2,7 @@
     
  <p align="center">
  <h3 align="center">Luiggy Dev</h3>
- <h4 align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi%2C+I'm+Luiggy+;I'm+Frontend+Web+Developer+%E2%9C%A8"/></h4>
+ <h4 align="center"> <a  align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi%2C+I'm+Luiggy+;I'm+Frontend+Web+Developer+%E2%9C%A8"/></h4>
 </p>
 <br>
     
