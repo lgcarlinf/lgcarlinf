@@ -2,7 +2,9 @@
     
  <p align="center">
  <h1 align="center">Hi I'm Luiggy Carlin</h1>
- <h4 align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img  href="https://readme-typing-svg.herokuapp.com?duration=3000&lines=I'm+Frontend+Web+Developer%E2%9C%A8%E2%9C%A8"/></h4></a>
+ <h4 align="center"> 
+     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=I'm+Frontend+Web+Developer%E2%9C%A8%E2%9C%A8"></a>
+</h4>
 </p>
 <br>
     
