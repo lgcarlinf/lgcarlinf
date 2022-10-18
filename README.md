@@ -74,7 +74,7 @@
   ![Snake animation](https://github.com/rencas1207/rencas1207/blob/output/github-contribution-grid-snake.svg)
    
    <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=lgcarlinf&style=flat-square&color=blue" alt="" width="15%" height="15%"/> 
+        <img src="https://komarev.com/ghpvc/?username=lgcarlinf&style=flat-square&color=green" alt="" width="12%" height="12%"/> 
     </div>
 
 
