@@ -26,7 +26,7 @@
 
 ## Full Stack Developer 
 <div style="display: inline_block" align="center">
-  <img align="center" alt="HTML" height="50" width="50" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
+  <img align="center" alt="HTML" height="50" width="50" src="[https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/html5.svg)](https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/html5.svg)">
   <img align="center" alt="CSS" height="50" width="50" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
   <img align="center" alt="Js" height="50" width="50" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
   <img align="center" alt="React" height="50" width="50" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
