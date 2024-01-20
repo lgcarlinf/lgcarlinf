@@ -26,19 +26,61 @@
 
 ## Full Stack Developer 
 <div style="display: inline_block" align="center">
-  <img align="center" alt="HTML" height="50" width="50" src="[https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/html5.svg)](https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/html5.svg)">
-  <img align="center" alt="CSS" height="50" width="50" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
-  <img align="center" alt="Js" height="50" width="50" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
-  <img align="center" alt="React" height="50" width="50" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
-  <img align="center" alt="Redux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Node" height="50" width="50" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
-  <img align="center" alt="Express" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Sequelize" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
-  <img align="center" alt="Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="PostgreSql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git" height="50" width="100" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
-  <img align="center" alt="Github" height="50" width="50" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">
-  <img align="center" alt="Firebase" height="50" width="50" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif">
+  <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/html5.svg">
+  <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/css.svg">
+  <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/figma.svg">
+   <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/bootstrap.svg">
+    <img align="center" alt="Sass" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/sass.svg">
+    <img align="center" alt="Styledcomponents" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/styledcomponents.svg">
+     <img align="center" alt="MUI" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/materialui.svg">
+     <img align="center" alt="ChakraUI" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/chakra-ui.svg">
+      <img align="center" alt="TailwindCSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/tailwindcss.svg">
+      <img align="center" alt="Webkit" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/webkit.svg">
+    <img align="center" alt="Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/javascript.svg">
+  <img align="center" alt="Typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/typescript.svg">
+  <img align="center" alt="Vite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/vitejs.svg">
+  <img align="center" alt="Swc" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/swc.svg">
+    <img align="center" alt="TurboPack" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/turbopack.svg">
+    <img align="center" alt="TurboRepo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/turborepo.svg">
+    <img align="center" alt="NPM" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/npm.svg">
+    <img align="center" alt="Yarn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/yarn.svg">
+  <img align="center" alt="Pnpm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/pnpm.svg">
+  <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/react.svg">
+  <img align="center" alt="ReactRouter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/reactrouter.svg">
+   <img align="center" alt="Nextjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/nextjs.svg">
+  <img align="center" alt="Redux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/redux.svg">
+  <img align="center" alt="Rxjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/rxjs.svg">
+   <img align="center" alt="ReactQuery" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/reactquery.svg">
+  <img align="center" alt="Node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/nodejs.svg">
+  <img align="center" alt="Express" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/expressjs_dark.svg">
+  <img align="center" alt="Jest" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/jest.svg">
+  <img align="center" alt="Vitest" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/vitest.svg">
+  <img align="center" alt="Postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/postman.svg">
+    <img align="center" alt="Storybook" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/storybook.svg">
+  <img align="center" alt="Docusaurus" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/docusaurus.svg">
+  <img align="center" alt="Sequelize" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/sequelize.svg">
+  <img align="center" alt="Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/mysql.svg">
+  <img align="center" alt="PostgreSql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/postgresql.svg">
+    <img align="center" alt="MongoDb" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/mongodb.svg">
+    <img align="center" alt="Jwt" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/jwt.svg">
+    <img align="center" alt="Auth0" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/auth0.svg">
+  <img align="center" alt="Firebase" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/firebase.svg">
+  <img align="center" alt="Supabase" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/supabase.svg">
+  <img align="center" alt="Cloudinary" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/cloudinary.svg">
+  <img align="center" alt="Azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/azure.svg">
+  <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/docker.svg">
+  <img align="center" alt="Pm2" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/pm2.svg">
+    <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/git.svg">
+  <img align="center" alt="Github" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/github.svg">
+  <img align="center" alt="Windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/windows.svg">
+  <img align="center" alt="Apple" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/apple_dark.svg">
+  <img align="center" alt="Homebrew" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/homebrew.svg">
+  <img align="center" alt="Warp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/warp.svg">
+  <img align="center" alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/linux.svg">
+  <img align="center" alt="Bash" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/bash_dark.svg">
+  <img align="center" alt="Vim" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/vim.svg">
+  <img align="center" alt="Jira" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/atlassian.svg">
+    <img align="center" alt="Netlify" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/netlify.svg">
     
   
 
