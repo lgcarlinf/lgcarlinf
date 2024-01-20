@@ -81,6 +81,10 @@
   <img align="center" alt="Vim" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/vim.svg">
   <img align="center" alt="Jira" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/atlassian.svg">
     <img align="center" alt="Netlify" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/netlify.svg">
+    <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/python.svg">
+    <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/java.svg">
+    <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/intellijidea.svg">
+    <img align="center" alt="cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/c++.svg">
     
   
 
