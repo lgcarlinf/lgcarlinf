@@ -21,7 +21,7 @@
 <div align="center">
   <p align="center">Soy un apasionado desarrollador de software con un amor profundo por la creación de soluciones tecnológicas innovadoras.</p>
   <p align="center">Mi enfoque se centra en construir aplicaciones robustas y escalables, utilizando tecnologías modernas que permitan una experiencia de usuario excepcional. Me encanta enfrentar desafíos complejos y transformar ideas abstractas en código funcional. Mi experiencia abarca desde el desarrollo front-end hasta el back-end, y disfruto explorando nuevas herramientas y marcos de trabajo para mantenerme al tanto de las últimas tendencias.</p>
-  <p align="center">Cuando no estoy inmerso en líneas de código, me encontrarás experimentando con proyectos paralelos, contribuyendo a la comunidad de código abierto, o compartiendo conocimientos en mi blog. Creo firmemente en la importancia de aprender y crecer constantemente en este siempre cambiante campo tecnológico.</p>
+ 
   <p align="center">¡Únete a mí en esta emocionante travesía de desarrollo de software, donde cada línea de código es una oportunidad para crear algo asombroso! 🚀</p>
 </div>
 
