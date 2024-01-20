@@ -83,7 +83,7 @@
     <img align="center" alt="Netlify" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/netlify.svg">
     <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/python.svg">
     <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/java.svg">
-    <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/intellijidea.svg">
+    <img align="center" alt="intellijidea" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/intellijidea.svg">
     <img align="center" alt="cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/c++.svg">
     
   
