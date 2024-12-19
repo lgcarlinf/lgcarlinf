@@ -96,7 +96,7 @@
  ## Streaks 💻
 <div align="center">
   <p align="center">My streaks</p>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nu-snowy.vercel.app?user=lgcarlinf&theme=dark" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats-nu-snowy.vercel.app?user=lgcarlinf&theme=dark" alt="GitHub Streak" />
  
   <br/>
  
