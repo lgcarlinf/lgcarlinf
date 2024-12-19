@@ -96,7 +96,7 @@
  ## Streaks 💻
 <div align="center">
   <p align="center">My streaks</p>
-  <img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=lgcarlinf&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nu-snowy.vercel.app?user=lgcarlinf&theme=dark" alt="GitHub Streak" /></a>
  
   <br/>
  
