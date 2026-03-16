@@ -95,11 +95,14 @@
  ## Streaks 💻
 <div align="center">
   <p align="center">My streaks</p>
-<img src="https://github-readme-streak-stats-nu-snowy.vercel.app?user=lgcarlinf&theme=dark" alt="GitHub Streak" />
- 
+ <div>
+   <img src="https://github-readme-streak-stats-nu-snowy.vercel.app?user=lgcarlinf&theme=dark" alt="GitHub Streak" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgcarlinf&layout=compact&theme=dark"/>
+ </div>
   <br/>
- 
+
 </div>
+
 
 
   
