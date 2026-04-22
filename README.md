@@ -30,16 +30,16 @@ Disfruto transformar ideas complejas en productos funcionales, explorando consta
 ## 🧠 Full Stack Developer
 
 ### 🖥️ Core
-| | | | | | | | |
-|---|---|---|---|---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/html5.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/css.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/javascript.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/typescript.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/nodejs.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/python.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/java.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/c++.svg" width="40"/> |
+| | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/html5.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/css.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/javascript.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/typescript.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/nodejs.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/php_dark.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/python.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/java.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/c++.svg" width="40"/> |
 
 ---
 
 ### 🎨 Frontend
-| | | | | | | | |
-|---|---|---|---|---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/react.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/nextjs.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/reactrouter.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/redux.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/rxjs.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/reactquery.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/vitejs.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/swc.svg" width="40"/> |
+| | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/react.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/nextjs.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/reactrouter.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/redux.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/rxjs.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/reactquery.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/vitejs.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/swc.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/astro_dark.svg" width="40"/> |
 
 | | |
 |---|---|
@@ -55,16 +55,16 @@ Disfruto transformar ideas complejas en productos funcionales, explorando consta
 ---
 
 ### ⚙️ Backend / Data
-| | | | | | | |
-|---|---|---|---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/expressjs_dark.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/sequelize.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/mysql.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/postgresql.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/mongodb.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/jwt.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/auth0.svg" width="40"/> |
+| | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/expressjs_dark.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/nestjs.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/sequelize.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/mysql.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/postgresql.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/mongodb.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/jwt.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/auth0.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/graphql.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/swagger.svg" width="40"/> |
 
 ---
 
 ### ☁️ Cloud / Services
-| | | | |
-|---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/firebase.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/supabase.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/cloudinary.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/azure.svg" width="40"/> |
+| | | | | | |
+|---|---|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/firebase.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/supabase.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/cloudinary.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/azure.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/aws.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/cloudflare.svg" width="40"/>
 
 ---
 
